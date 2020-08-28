@@ -1,6 +1,6 @@
-## Hi there 👋, I'm learning Frontend and backend web 🚀
+## Hi there 👋, I'm learning Frontend and Backend web 🚀
 
-#### I am Electromechanical but enthusiastic about new technologies
+#### My Name is Javier, aka anbreaker on web, I am Electromechanical but enthusiastic about new technologies
 
 I made these projects just to learn, I want to be a Full Stack web Developer
 
