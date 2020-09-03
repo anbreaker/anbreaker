@@ -14,5 +14,5 @@ Skills: HTML / CSS / JS / Python / Linux / Bash
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anbreaker&show_icons=true&theme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anbreaker&layout=compact)](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=anbreaker&hide=php&theme=tokyonight)
+[![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=anbreaker&hide=php&theme=tokyonight)](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=anbreaker&hide=php&theme=tokyonight)
 
