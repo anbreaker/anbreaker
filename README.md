@@ -34,16 +34,10 @@ Skills: HTML / CSS / JS / Python / Linux / Bash
 ## :trophy: My Github Stats:
 
 <div>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anbreaker&show_icons=true&locale=en&theme=tokyonight" alt="anbreaker" /></p>
-
-<br>
-<br>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anbreaker&theme=tokyonight" alt="anbreaker" /></p>
-
-<br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anbreaker&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anbreaker" /></p>
-
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=anbreaker&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=anbreaker&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=anbreaker&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=anbreaker&hide=php&theme=tokyonight" />
+</a>
 </div>
