@@ -35,10 +35,10 @@ Skills: HTML / CSS / JS / Python / Linux / Bash
 
 <div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anbreaker&show_icons=true&locale=en&layout=compact" alt="anbreaker" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anbreaker&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anbreaker" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anbreaker&show_icons=true&locale=en" alt="anbreaker" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anbreaker&show_icons=true&locale=en&theme=tokyonight" alt="anbreaker" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anbreaker&" alt="anbreaker" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anbreaker&theme=tokyonight" alt="anbreaker" />
 
 </div>
