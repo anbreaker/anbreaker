@@ -40,4 +40,6 @@ Skills: HTML / CSS / JS / Python / Linux / Bash
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=anbreaker&hide=php&theme=tokyonight">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=anbreaker&hide=php&theme=tokyonight" />
 </a>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anbreaker&=php&theme=tokyonight" alt="anbreaker" />
 </div>
