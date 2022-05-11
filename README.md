@@ -10,8 +10,6 @@ With Keepcoding® I did the Bootcamp FULL STACK WEB DEVELOPER to develop myself 
 
 https://rootdevs.es/
 
-Translated with www.DeepL.com/Translator (free version)
-
 👤 **anbreaker**
 
 Skills: HTML / CSS / JS / Python / Linux / Bash
