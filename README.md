@@ -1,4 +1,4 @@
-## Hi there 👋, I'm learning Frontend and Backend web 🚀
+## Hi there 👋, I'm Junior Frontend and Backend web 🚀
 
 #### Hi, I'm Javier, alias anbreaker on the web, I'm an Electromechanic but I'm an enthusiast of the web, new technologies and telecommunications. 
 
