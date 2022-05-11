@@ -1,8 +1,16 @@
 ## Hi there 👋, I'm learning Frontend and Backend web 🚀
 
-#### My Name is Javier, aka anbreaker on web, I am Electromechanical but enthusiastic about new technologies
+#### Hi, I'm Javier, alias anbreaker on the web, I'm an Electromechanic but I'm an enthusiast of the web, new technologies and telecommunications. 
 
-I made these projects just to learn, I want to be a Full Stack web Developer
+I'm currently working at ViewNext as a FullStack Web Developer, for IBM and Navantia (HTML, CSS and JavaScript / TypeScript are my worlds. I love it, but I don't recommend it XD)
+
+I have worked for years as an industrial mechanic, I have a lot of experience in this field and in big companies like Agraz or PepsiCo but I changed course to meet the challenge of working in what I like the most.
+
+With Keepcoding® I did the Bootcamp FULL STACK WEB DEVELOPER to develop myself in these competences and I have always combined my work with continuing my training, at the moment I am in the last year of my degree in Telecommunications.
+
+https://rootdevs.es/
+
+Translated with www.DeepL.com/Translator (free version)
 
 👤 **anbreaker**
 
