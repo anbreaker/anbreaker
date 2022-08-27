@@ -2,7 +2,7 @@
 
 #### Hi, I'm Javier, alias anbreaker on the web, I'm an Electromechanic but I'm an enthusiast of the web, new technologies and telecommunications. 
 
-I'm currently working at ViewNext as a FullStack Web Developer, for IBM and Navantia (HTML, CSS and JavaScript / TypeScript are my worlds. I love it, but I don't recommend it XD)
+I'm currently working at ViewNext as a FullStack Web Developer, for IBM and AMB (Area Metropolitana de Barcelona) (HTML, CSS and JavaScript / TypeScript are my worlds. I love it, but I don't recommend it XD)
 
 I have worked for years as an industrial mechanic, I have a lot of experience in this field and in big companies like Agraz or PepsiCo but I changed course to meet the challenge of working in what I like the most.
 
