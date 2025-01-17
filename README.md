@@ -4,7 +4,7 @@
 
 I'm currently working at Sngular as a FullStack Web Developer, (HTML, CSS and JavaScript / TypeScript are my worlds. I love it, but I don't recommend it XD)
 
-I have worked for years as an industrial mechanic, I have a lot of experience in this field and in big companies like Agraz or PepsiCo but I changed course to meet the challenge of working in what I like the most.
+I have worked for years as an industrial mechanic, I have a lot of experience in this field and in big companies like Agraz, El Corte Ingles or PepsiCo but I changed course to meet the challenge of working in what I like the most.
 
 With Keepcoding® I did the Bootcamp FULL STACK WEB DEVELOPER to develop myself in these competences and I have always combined my work with continuing my training, at the moment I am in the last year of my degree in Telecommunications.
 
