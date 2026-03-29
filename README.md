@@ -1,39 +1,89 @@
-## Hi there 👋, I'm Frontend and Backend web 🚀
+# Hi there! I'm Javier (anbreaker) 👋
 
-#### Hi, I'm Javier, alias anbreaker on the web, I'm an Electromechanic but I'm an enthusiast of the web, new technologies and telecommunications. 
+<p align="center">
+  <a href="https://www.linkedin.com/in/francisco-javier-antunez-duran">
+    <img width="100%" src="https://raw.githubusercontent.com/anbreaker/anbreaker/refs/heads/master/images/portada.png" alt="Javier's Banner - New York & Graffiti Art" />
+  </a>
+</p>
 
-I'm currently working at Sngular as a FullStack Web Developer, (HTML, CSS and JavaScript / TypeScript are my worlds. I love it, but I don't recommend it XD)
+<h3 align="center">Senior Frontend Developer | Telecommunications Engineering Student | Tech Enthusiast</h3>
 
-I have worked for years as an industrial mechanic, I have a lot of experience in this field and in big companies like Agraz, El Corte Ingles or PepsiCo but I changed course to meet the challenge of working in what I like the most.
+<p align="center">
+  <img src="https://img.shields.io/badge/Senior-Frontend-0891b2?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fullstack-Background-orange?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sngular-Team-eb2d2d?style=for-the-badge" />
+</p>
 
-With Keepcoding® I did the Bootcamp FULL STACK WEB DEVELOPER to develop myself in these competences and I have always combined my work with continuing my training, at the moment I am in the last year of my degree in Telecommunications.
+---
 
-https://rootdevs.es/
+## 🚀 About Me
 
-👤 **anbreaker**
+I'm a **Senior Frontend Developer** at **Sngular**. Although my world revolves around **JavaScript and TypeScript**, I come from a diverse technical background that shaped my problem-solving mindset:
 
-Skills: HTML / CSS / JS / Python / Linux / Bash
+- 🔧 **The Evolution:** From industrial mechanic in companies like **PepsiCo** or **El Corte Inglés** to Software Engineer. This background gives me a unique "troubleshooting" perspective.
+- 🎓 **Continuous Growth:** After a Fullstack Bootcamp at Keepcoding®, I'm currently finishing my **Degree in Telecommunications Engineering**.
+- 🌐 **Expertise:** Deeply focused on modern Frontend architectures, performance, and scalability. I love working with any framework, though JS/TS is where I truly thrive.
+- 🤖 **AI Native:** I specialize in leveraging advanced **Generative AI** models (like Claude) and orchestrating **autonomous sub-agents** (using tools like Engram) to enhance development workflows.
 
-- 🌱 I’m currently learning Frontend and Backend web. Nodejs, MongoDB
-- 💬 Ask me about whatever you want
-- 📫 How to reach me: antunez19@gmail.com
-- 🔗 Website: https://rootdevs.es/
+---
 
-<br>
+## 🛠️ Tech Stack & Tools
 
-<h3 align="left">Social Media:</h3>
+### Frontend Specialist
 
-<p align="left"><a href="https://www.github.com/anbreaker" target="_blank" rel="noopener noreferrer"><img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </a> <a href="https://www.linkedin.com/in/francisco-javier-antunez-duran" target="_blank" rel="noopener noreferrer"><img style="margin-left:10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/antunez19" target="_blank" rel="noopener noreferrer"><img style="margin-left:10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://rootdevs.es/" target="_blank" rel="noopener noreferrer"><img style="margin-left:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" width="32" height="32" /> </a><a href="https://www.youtube.com/user/antunez1912" target="_blank" rel="noopener noreferrer"><img style="margin-left:10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,astro,lit,html,css,tailwind,sass,nextjs" />
+</p>
 
-<br>
+### AI & Agents Orchestration (Experimental)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noopener noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-Generative_AI-C9A86A?style=for-the-badge&logo=roots&logoColor=white" alt="Claude AI" />
+  <img src="https://skillicons.dev/icons?i=engram" alt="Engram Orchestration" />
+  <img src="https://skillicons.dev/icons?i=bots,brain" alt="AI Agents" />
+</p>
 
-<br>
+### Backend & Databases (SQL & NoSQL)
 
-<p align="center"><a href="http://www.github.com/anbreaker"><img src="https://github-readme-stats.vercel.app/api?username=anbreaker&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="anbreaker's GitHub stats" /></a></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,mongodb,firebase,express" />
+</p>
 
-<br>
+### Tools & Ecosystem
 
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vitest,linux,bash,docker,aws,figma,postman,arduino" />
+</p>
+
+---
+
+## 📈 Activity & Contributions
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anbreaker&theme=tokyo-night&area=true&hide_border=true" alt="anbreaker's activity graph" />
+</p>
+
+---
+
+## 🗣️ Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Español-Nativo-eb2d2d?style=flat-square&logo=roots" alt="Native Spanish" />
+  <img src="https://img.shields.io/badge/English-Professional-0891b2?style=flat-square&logo=roots" alt="Professional English" />
+  <img src="https://img.shields.io/badge/Português-Defesa-369400?style=flat-square&logo=roots" alt="Conversational Portuguese" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 🌍 **Portfolio:** [rootdevs.es](https://rootdevs.es/)
+- 💼 **LinkedIn:** [In/anbreaker](https://www.linkedin.com/in/francisco-javier-antunez-duran)
+- 🐦 **Twitter:** [@antunez19](https://www.twitter.com/antunez19)
+- ✉️ **Email:** [antunez19@gmail.com](mailto:antunez19@gmail.com)
+
+---
+
+<p align="center">
+  <i>"I love JS/TS... but I don't always recommend it XD"</i>
+</p>
