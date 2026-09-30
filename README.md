@@ -78,7 +78,7 @@ _Evolution: SDD with OpenSpec → SDD with Engram → ODD with Gentle-AI._
 ## 📈 Activity & Contributions
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anbreaker&theme=tokyo-night&area=true&hide_border=true" alt="anbreaker's activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anbreaker&show_icons=true&theme=tokyonight&hide_border=true" alt="anbreaker's GitHub stats" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ _Evolution: SDD with OpenSpec → SDD with Engram → ODD with Gentle-AI._
 
 - 🌍 **Portfolio:** [rootdevs.es](https://rootdevs.es/)
 - 💼 **LinkedIn:** [In/anbreaker](https://www.linkedin.com/in/francisco-javier-antunez-duran)
-- 🐦 **Twitter:** [@antunez19](https://www.twitter.com/antunez19)
+- 𝕏 **X:** [@antunez19](https://x.com/antunez19)
 - ✉️ **Email:** [antunez19@gmail.com](mailto:antunez19@gmail.com)
 
 ---
