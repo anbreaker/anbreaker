@@ -47,7 +47,7 @@ I'm a **Senior Frontend Developer** at **Sngular**. Although my world revolves a
 
 <p align="left">
   <a href="https://github.com/Gentleman-Programming/gentle-ai">
-    <img height="64" src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/gentle-ai-logo.png" alt="Gentle-AI" />
+    <img width="220" src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/built-with-gentle-ai.png" alt="Built with Gentle-AI" />
   </a>
 </p>
 
