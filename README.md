@@ -39,9 +39,27 @@ I'm a **Senior Frontend Developer** at **Sngular**. Although my world revolves a
 
 <p align="left">
   <img src="https://img.shields.io/badge/Claude-Generative_AI-C9A86A?style=for-the-badge&logo=roots&logoColor=white" alt="Claude AI" />
-  <img src="https://skillicons.dev/icons?i=engram" alt="Engram Orchestration" />
-  <img src="https://skillicons.dev/icons?i=bots,brain" alt="AI Agents" />
+  <a href="https://github.com/Gentleman-Programming/engram"><img height="48" src="https://raw.githubusercontent.com/Gentleman-Programming/engram/main/assets/branding/engram-logo-only.png" alt="Engram" /></a>
+  <img src="https://skillicons.dev/icons?i=bots" alt="AI Agents" />
 </p>
+
+### AI Workflow — Gentle-AI
+
+<p align="left">
+  <a href="https://github.com/Gentleman-Programming/gentle-ai">
+    <img height="64" src="https://raw.githubusercontent.com/Gentleman-Programming/gentle-ai/main/docs/assets/brand/gentle-ai-logo.png" alt="Gentle-AI" />
+  </a>
+</p>
+
+I build with [Gentle-AI](https://github.com/Gentleman-Programming/gentle-ai) on top of Claude Code:
+
+- **Organic-Driven Development (ODD):** explore the code first; small changes stay light, substantial work gets a tracked task list.
+- **Persistent memory with Engram:** decisions, bugs and conventions survive across sessions.
+- **Sub-agent delegation:** exploration and multi-file changes go to focused sub-agents while the main thread orchestrates.
+- **Verify before done:** tests and checks run before closing a task, and I review every change before it's committed.
+- **Curated skills:** reusable instructions for commits, PRs, code review and modern Angular.
+
+_Evolution: SDD with OpenSpec → SDD with Engram → ODD with Gentle-AI._
 
 ### Backend & Databases (SQL & NoSQL)
 
